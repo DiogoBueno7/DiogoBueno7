@@ -6,7 +6,7 @@
 
 #### Engenheiro de Dados & Especialista em BI & IA
 
-Transformando dados em decisão, desenvolvendo e criando automações com Inteligência Artificial.
+Transformando dados em decisão, desenvolvendo aplicações e criando automações com Inteligência Artificial.
 
 📍 São Paulo, Brasil &nbsp;·&nbsp; 🟢 Aberto a oportunidades &nbsp;·&nbsp; ⏳ +10 anos de experiência
 
