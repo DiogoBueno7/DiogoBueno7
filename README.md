@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Diogo Bueno 👋
 
-#### Engenheiro de Dados & Especialista em BI @ IA
+#### Engenheiro de Dados & Especialista em BI & IA
 
 Transformando dados em decisão — pipelines confiáveis, dashboards que aceleram a operação e automações com Inteligência Artificial.
 
