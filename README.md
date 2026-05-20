@@ -23,7 +23,6 @@ Transformando dados em decisão, desenvolvendo aplicações e criando automaçõ
 
 Engenheiro de Dados e profissional de **Business Intelligence** com **mais de 10 anos** de experiência transformando dados brutos em decisões de negócio. Atuo de ponta a ponta — da **ingestão e modelagem** dos dados à **camada analítica** e aos **dashboards** — e também atuo no **desenvolvimento de aplicações e automações com Inteligência Artificial**.
 
-- 🔭 Hoje atuo com **Engenharia de Dados & Analytics** na **Happmobi**
 - 🌱 Cursando **MBA em AI Engineering & Multi-Agents** na **FIAP** (2026–2027)
 - 🛠️ Foco em pipelines **ETL/ELT**, arquitetura de dados em camadas, **Power BI** e IA aplicada
 - 📜 **+28 certificações** em Engenharia de Dados, BI, Python e IA
