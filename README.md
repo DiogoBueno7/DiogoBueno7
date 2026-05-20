@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=C96342&center=true&vCenter=true&width=620&height=45&lines=Engenheiro+de+Dados+%26+Especialista+em+BI;Transformando+dados+em+decis%C3%A3o;Pipelines+%E2%80%A2+Dashboards+%E2%80%A2+IA+aplicada" alt="Diogo Bueno" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=67E18F&center=true&vCenter=true&width=620&height=45&lines=Engenheiro+de+Dados+%26+Especialista+em+BI;Transformando+dados+em+decis%C3%A3o;Pipelines+%E2%80%A2+Dashboards+%E2%80%A2+IA+aplicada" alt="Diogo Bueno" />
 
 # Olá, eu sou o Diogo Bueno 👋
 
