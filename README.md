@@ -70,19 +70,6 @@ Engenheiro de Dados e profissional de **Business Intelligence** com **mais de 10
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiogoBueno7&show_icons=true&hide_border=true&title_color=C96342&icon_color=C96342&text_color=1A1A1A&bg_color=F6F4EF" alt="Estatísticas do GitHub de Diogo" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBueno7&layout=compact&hide_border=true&title_color=C96342&text_color=1A1A1A&bg_color=F6F4EF" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com?user=DiogoBueno7&hide_border=true&background=F6F4EF&ring=C96342&fire=C96342&currStreakLabel=C96342&sideLabels=1A1A1A&dates=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&stroke=C96342" alt="Sequência de contribuições" />
-
-</div>
-
----
-
 ## 📬 Vamos conversar
 
 Se sua operação está travada por dados desorganizados, processos manuais ou análises lentas — **eu posso ajudar**. Disponível para projetos de **Engenharia de Dados**, **Business Intelligence** e **Aplicações com IA**.
