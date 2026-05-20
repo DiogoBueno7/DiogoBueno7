@@ -45,55 +45,6 @@ Engenheiro de Dados e profissional de **Business Intelligence** com **mais de 10
 
 ---
 
-## 📊 Projetos em destaque
-
-### 🟢 Engenharia de Dados — Arquitetura em Camadas
-> **Happmobi · plataforma**
-
-Construção e operação da arquitetura de dados ponta a ponta: ingestão de múltiplas fontes (MongoDB, SQL Server, APIs), camada de *staging* com qualidade e padronização, modelagem dimensional e camada analítica no Data Warehouse.
-
-`Azure Data Factory` · `Airflow` · `dbt` · `MongoDB` · `SQL Server` · `Python`
-
-### 🟢 Automação de Processos com Inteligência Artificial
-> **Happmobi · interno**
-
-Rotinas que automatizam processos internos com IA (Cursor AI, Claude Code) — da extração de APIs à validação de dados e publicação de relatórios, com programação orientada a objetos e *logging* estruturado.
-
-`Python` · `IA` · `Cursor AI` · `Claude Code` · `APIs`
-
-### ✅ Camada de Reporting — SQL Server
-> **Sercom · 2015–2021**
-
-Modelagem e otimização de *stored procedures*, *views* e *jobs* do SQL Agent para reporting operacional e comercial em larga escala em contact center.
-
-`SQL Server` · `T-SQL` · `SSIS` · `VBA`
-
-### ✅ Dashboards Executivos & Insights
-> **Sercom · BI**
-
-Conjunto de relatórios executivos para liderança operacional, transformando dados de contact center em KPIs acionáveis e cadenciados.
-
-`Power BI` · `Excel` · `DAX` · `Storytelling`
-
----
-
-## 💼 Experiência
-
-**Data Engineer & Data Analyst** — `Happmobi · Educação Corporativa Digital`
-*jan 2021 – presente · São Paulo (Remoto)*
-- Desenvolvimento e operação de pipelines **ETL/ELT** e integração entre **MongoDB** e **SQL Server** Data Warehouse.
-- Modelagem relacional, camada analítica e otimização de tabelas, *views* e *stored procedures*.
-- Gestão de **Power BI Embedded** (capacidade, escalabilidade, agendamentos) e governança de dados em **Azure**.
-- Automação de processos analíticos com **Python** e controle de versão / CI-CD.
-
-**Senior Data Analyst** — `Sercom Contact Center`
-*abr 2015 – jan 2021 · São Paulo, Brasil*
-- Especialista em **Business Intelligence**: dashboards e relatórios executivos em **Power BI** e Excel.
-- Modelagem e otimização da camada de reporting em **SQL Server** (procedures, views, jobs do SQL Agent).
-- Desenvolvimento de pipelines **ETL com SSIS** e automações com **SQL, Excel VBA e Python**.
-
----
-
 ## 🎓 Formação
 
 | Curso | Instituição | Período | Status |
