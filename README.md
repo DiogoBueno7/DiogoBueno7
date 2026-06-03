@@ -10,11 +10,11 @@ Transformando dados em decisão, desenvolvendo aplicações e criando automaçõ
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-bueno-751b62147/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Diogobueno7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoBueno7)
+<a href="https://www.linkedin.com/in/diogo-bueno-751b62147/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:Diogobueno7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/DiogoBueno7" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-![Visitas no perfil](https://komarev.com/ghpvc/?username=DiogoBueno7&style=for-the-badge&color=C96342&label=VISITAS)
+<img src="https://komarev.com/ghpvc/?username=DiogoBueno7&style=for-the-badge&color=C96342&label=VISITAS" alt="Visitas no perfil">
 
 </div>
 
